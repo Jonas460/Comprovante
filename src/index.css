@@ -1,0 +1,31 @@
+body {
+  
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+    
+-webkit-print-color-adjust: exact !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ background-color: #faa29b !important;
+  background-image: './src/imagens/background.png';
+  background-size: cover;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+    
+}
+
+.MuiDialog-paper {
+  padding: 15px;
+} 
+
+button.MuiButton-containedSecondary {
+  margin-bottom: 10px;
+}
+.print {
+  display:block;
+  }
